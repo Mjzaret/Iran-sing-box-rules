@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/logo-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-dark.png">
   <img alt="a logo for iran sing-box rules in both dark and light mode" src="assets/logo-dark.png">
 </picture>
 
